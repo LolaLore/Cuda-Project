@@ -1,0 +1,59 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  D:\Facultate_semestrul_V\PPD\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin\nvcc.exe" -gencode=arch=compute_35,code=\"sm_35,compute_35\" --use-local-env -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64" -x cu  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include"  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 --compile -cudart static  -g   -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc140.pdb /FS /Zi /RTC1 /MDd " -o x64\Debug\kernel.cu.obj "D:\Facultate_semestrul_V\PPD\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\kernel.cu" 
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(2773): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(2817): warning : statement is unreachable
+D:/Facultate_semestrul_V/PPD/lab5_ppd_cuda_proiect/lab5_ppd_cuda_proiect/kernel.cu(35): warning : variable "gray" was declared but never referenced
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30305): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30617): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30683): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30863): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(31067): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(51107): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(16074): warning : integer operation result is out of range
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30305): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30617): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30683): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30863): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(31067): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30305): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30617): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30683): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30863): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(31067): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30305): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30617): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30683): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30863): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(31067): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(16421): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30305): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30617): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30683): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30863): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(31067): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30305): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30617): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30683): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30863): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(31067): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30305): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30617): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30683): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30863): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(31067): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(2773): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(2817): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(16421): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30305): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30617): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30683): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(30863): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(31067): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(38500): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(38986): warning : statement is unreachable
+d:\facultate_semestrul_v\ppd\lab5_ppd_cuda_proiect\lab5_ppd_cuda_proiect\CImg.h(51107): warning : statement is unreachable
+  kernel.cu
+D:/Facultate_semestrul_V/PPD/lab5_ppd_cuda_proiect/lab5_ppd_cuda_proiect/kernel.cu(50): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+  lab5_ppd_cuda_proiect.vcxproj -> D:\Facultate_semestrul_V\PPD\lab5_ppd_cuda_proiect\x64\Debug\lab5_ppd_cuda_proiect.exe
+  lab5_ppd_cuda_proiect.vcxproj -> D:\Facultate_semestrul_V\PPD\lab5_ppd_cuda_proiect\x64\Debug\lab5_ppd_cuda_proiect.pdb (Full PDB)
